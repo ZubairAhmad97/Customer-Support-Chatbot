@@ -180,7 +180,7 @@ const Header = () => (
     <header className="bg-gradient-to-r from-indigo-600 to-indigo-800 text-white p-6 py-4">
         <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between">
             <h1 className="text-xl font-bold">Customer Support Chatbot</h1>
-            {/* <div className="flex items-center text-sm space-x-2 mt-2 sm:mt-0 justify-end pl-8">
+            <div className="flex items-center text-sm space-x-2 mt-2 sm:mt-0 justify-end pl-8">
                <span>
                 Powered by
                     <a href="https://github.com/langchain-ai/langchain" target="_blank" className="underline pl-1">
@@ -188,7 +188,7 @@ const Header = () => (
                     </a>
                 </span>
                 🦜️🔗
-            </div> */}
+            </div> 
         </div>
     </header>
 );
