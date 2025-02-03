@@ -2,7 +2,7 @@
 
 This is a simple RAG for a customer support bot, for use with the [Multinear](https://multinear.com) platform.
 
-<img align="right" width="300" src="static/screenshot.png">
+<img align="right" width="300" src="static/Screenshot.png">
 
 ## Introduction
 
