@@ -1,4 +1,4 @@
-# Demo Bank Customer Support
+# Customer Support Chatbot
 
 This is a simple RAG for a customer support bot, for use with the [Multinear](https://multinear.com) platform.
 
